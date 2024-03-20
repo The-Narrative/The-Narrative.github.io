@@ -1,7 +1,7 @@
 layout: page
 title: "second page"
-permalink: /second page
+permalink: /second_page
 
 
 # About the fictional company
-The fictional company is a bank.
+The fictional company is not a bank.
